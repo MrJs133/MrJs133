@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **GraphRAG & LLM & SFT**
 - 📫 How to reach me: **jsong010123@gmail.com**
 
-![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=MrJs133&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
