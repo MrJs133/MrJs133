@@ -1,5 +1,4 @@
 # Hi there 👋
-<h1 align="center">I am JinSong</h1>
 
 <!--
 **MrJs133/MrJs133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Education
 - 2023.09-*Present* Wuhan University M.Eng.
 - 2019.09-2023.06 Xidian University B.Eng.
 
+## Interests
 - 🔭 I’m currently working on [incubator-hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai)
 - 🌱 I’m currently learning **GraphRAG & LLM & SFT**
-- 📫 How to reach me: **jsong010123@gmail.com**
+
+## Skills
+- Natural Language: Chinese (Native); English (CET-6)
+- Programming Language: Python; C++
+- Typesetting Language: LaTeX; Markdown
+
+## Feel free to reach me
+- 📫 **jsong010123@gmail.com**
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrJs133&show_icons=true&locale=en" alt="MrJs133" /></p>
