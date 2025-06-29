@@ -1,6 +1,5 @@
 # Hi there 👋
 <h1 align="center">I am JinSong</h1>
-<h3 align="center">A postgraduate student in WHU</h3>
 
 <!--
 **MrJs133/MrJs133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
