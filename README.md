@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 <h1 align="center">I am JinSong</h1>
 <h3 align="center">A postgraduate student in WHU</h3>
 
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 2023.09-*Present* Wuhan University M.Eng.
+- 2019.09-2023.06 Xidian University B.Eng.
 
 - 🔭 I’m currently working on [incubator-hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai)
 - 🌱 I’m currently learning **GraphRAG & LLM & SFT**
